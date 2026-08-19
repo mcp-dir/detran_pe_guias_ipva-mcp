@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_detran_pe_guias_ipva.",
+  "servers": {
+    "detran_pe_guias_ipva": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_detran_pe_guias_ipva"
+    }
+  }
+}
